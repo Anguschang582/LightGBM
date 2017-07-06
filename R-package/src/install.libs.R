@@ -1,5 +1,5 @@
 # User options
-use_precompile <- FALSE
+use_precompile <- TRUE
 use_gpu <- FALSE
 use_mingw <- FALSE
 
